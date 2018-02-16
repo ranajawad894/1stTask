@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">1stTask</string>
+    <string name="imgpp">Profile</string>
+    <string name="imgdp">DP</string>
+    <string name="textview1">Sign In</string>
+    <string name="enter_your_email">Enter Your Email...</string>
+    <string name="enter_your_password">Enter Your Password...</string>
+    <string name="btn1">Login</string>
+    <string name="btn2">Detail</string>
+    <string name="btn3">Contact</string>
+    <string name="btn4">Help</string>
+</resources>
